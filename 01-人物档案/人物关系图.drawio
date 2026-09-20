@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="drawio" version="26.0.0">
+  <diagram name="主角团关系图">
+    <mxGraphModel dx="1400" dy="800" grid="1" gridSize="10" page="1" pageWidth="1720" pageHeight="820">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t1" value="1980 微软 × IBM · 主角团关系与决策图" style="text;html=1;align=left;verticalAlign=middle;fontSize=22;fontStyle=1;fontColor=#1a1a2e;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="900" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="t2" value="三拨阵营一句话：IBM 要的是速度，微软要的是产权，SCP 与 DRI 手里握着的是操作系统本身。（金额为通行口径，争议考订见仓库 04-谜团与争议）" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="58" width="1200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cIBM" value="IBM 阵营 · 要的是速度" style="swimlane;startSize=30;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;swimlaneFillColor=#f5f9ff;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="320" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="pOpel" value="&lt;b&gt;约翰·奥佩尔&lt;/b&gt;&#xa;总裁 · 高层背景（牵线说的另一方）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=12;" vertex="1" parent="cIBM">
+          <mxGeometry x="40" y="50" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pLowe" value="&lt;b&gt;威廉·洛&lt;/b&gt;&#xa;立项者 · 「一年出机器」方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=12;" vertex="1" parent="cIBM">
+          <mxGeometry x="40" y="150" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pEstridge" value="&lt;b&gt;唐·埃斯特利奇&lt;/b&gt;&#xa;执行者 · Project Chess 领军" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=12;" vertex="1" parent="cIBM">
+          <mxGeometry x="40" y="250" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pSams" value="&lt;b&gt;杰克·萨姆斯&lt;/b&gt;&#xa;软件采购 · 两次上门的人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=12;" vertex="1" parent="cIBM">
+          <mxGeometry x="40" y="350" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cMS" value="微软阵营 · 要的是产权" style="swimlane;startSize=30;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;swimlaneFillColor=#f6fbf5;" vertex="1" parent="1">
+          <mxGeometry x="700" y="120" width="320" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="pGates" value="&lt;b&gt;比尔·盖茨&lt;/b&gt;&#xa;操盘者 · 24 岁的最终拍板人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" vertex="1" parent="cMS">
+          <mxGeometry x="40" y="50" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pAllen" value="&lt;b&gt;保罗·艾伦&lt;/b&gt;&#xa;一线执行 · SCP 交易操办人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" vertex="1" parent="cMS">
+          <mxGeometry x="40" y="150" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pBallmer" value="&lt;b&gt;史蒂夫·鲍尔默&lt;/b&gt;&#xa;第 30 号员工 · 随行提案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" vertex="1" parent="cMS">
+          <mxGeometry x="40" y="250" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cSCP" value="SCP / DRI 阵营 · 握着操作系统" style="swimlane;startSize=30;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;swimlaneFillColor=#fffcf2;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="120" width="320" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="pKildall" value="&lt;b&gt;加里·基尔代尔&lt;/b&gt;&#xa;CP/M 之父 · DRI 创始人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=12;" vertex="1" parent="cSCP">
+          <mxGeometry x="40" y="50" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pMcEwen" value="&lt;b&gt;多萝西·麦克尤恩&lt;/b&gt;&#xa;DRI 主谈 · 基尔代尔之妻" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=12;" vertex="1" parent="cSCP">
+          <mxGeometry x="40" y="150" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pPaterson" value="&lt;b&gt;蒂姆·帕特森&lt;/b&gt;&#xa;QDOS / 86-DOS 作者" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=12;" vertex="1" parent="cSCP">
+          <mxGeometry x="40" y="250" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pBrock" value="&lt;b&gt;罗德·布罗克&lt;/b&gt;&#xa;SCP 老板 · 两次签字卖家" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=12;" vertex="1" parent="cSCP">
+          <mxGeometry x="40" y="350" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pMary" value="&lt;b&gt;玛丽·盖茨&lt;/b&gt;&#xa;United Way 董事会 · 信任背书" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=12;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="660" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eOL" value="批准立项 1980-07" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="pOpel" target="pLowe">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eLE" value="1980-08 移交日常" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="pLowe" target="pEstridge">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eES" value="组建 Chess 团队" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="pEstridge" target="pSams">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKM" value="1976 共同创办 DRI" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;dashed=1;strokeColor=#9673a6;fontSize=10;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="pKildall" target="pMcEwen">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ePB" value="1978 受雇" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;dashed=1;strokeColor=#9673a6;fontSize=10;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="pBrock" target="pPaterson">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSG" value="1980-07-21 首访：谈语言 · 问 OS" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=2;fontSize=10;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="pSams" target="pGates">
+          <mxGeometry x="-0.55" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eGK" value="1980-08-21 电话引荐" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#9673a6;fontSize=10;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="pGates" target="pKildall">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSM" value="1980-08-22 前后赴 DRI · NDA 僵局（未成交）" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.7;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="pSams" target="pMcEwen">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="610" />
+              <mxPoint x="1690" y="610" />
+              <mxPoint x="1690" y="305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eGE" value="1980-11-06 签约：许可而非卖断" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#d79b00;strokeWidth=3;fontSize=10;fontStyle=1;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="pEstridge" target="pGates">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eAB" value="1980-12 授权 $25k ｜ 1981-07-27 买断 $50k" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.7;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d79b00;strokeWidth=3;fontSize=10;fontStyle=1;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="pAllen" target="pBrock">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eAP" value="1981-05 雇佣 · 适配 IBM PC" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="pAllen" target="pPaterson">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKE" value="1981-07-21 对质 · 获准同售 CP/M-86" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="pKildall" target="pEstridge">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1520" y="90" />
+              <mxPoint x="460" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBG" value="1986 诉讼和解 $925k" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.9;entryDx=0;entryDy=0;dashed=1;strokeColor=#b85450;strokeWidth=2;fontSize=10;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="pBrock" target="pGates">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1460" y="580" />
+              <mxPoint x="620" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMO" value="United Way 同事 · 1980" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#9673a6;fontSize=10;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="pMary" target="pOpel">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="690" />
+              <mxPoint x="20" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lg" value="图例" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;verticalAlign=top;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="640" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lg1" value="" style="rounded=0;html=1;fillColor=#d79b00;strokeColor=#d79b00;strokeWidth=3;" vertex="1" parent="lg">
+          <mxGeometry x="10" y="34" width="34" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="lg1t" value="合同 / 交易（真金白银）" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;" vertex="1" parent="lg">
+          <mxGeometry x="56" y="28" width="250" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="lg2" value="" style="rounded=0;html=1;fillColor=#9673a6;strokeColor=#9673a6;dashed=1;" vertex="1" parent="lg">
+          <mxGeometry x="10" y="58" width="34" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="lg2t" value="引荐 / 人脉 / 共同创办" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;" vertex="1" parent="lg">
+          <mxGeometry x="56" y="52" width="250" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="lg3" value="" style="rounded=0;html=1;fillColor=#666666;strokeColor=#666666;" vertex="1" parent="lg">
+          <mxGeometry x="10" y="82" width="34" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="lg3t" value="访问 / 雇佣 / 对质（组织关系）" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;" vertex="1" parent="lg">
+          <mxGeometry x="56" y="76" width="250" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="lg4" value="" style="rounded=0;html=1;fillColor=#b85450;strokeColor=#b85450;dashed=1;" vertex="1" parent="lg">
+          <mxGeometry x="10" y="106" width="34" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="lg4t" value="诉讼 / 追索" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;" vertex="1" parent="lg">
+          <mxGeometry x="56" y="100" width="250" height="18" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
