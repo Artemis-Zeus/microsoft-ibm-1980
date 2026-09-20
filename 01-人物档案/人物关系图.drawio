@@ -29,7 +29,7 @@
         <mxCell id="cMS" value="微软阵营 · 要的是产权" style="swimlane;startSize=30;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;swimlaneFillColor=#f6fbf5;" vertex="1" parent="1">
           <mxGeometry x="700" y="120" width="320" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="pGates" value="&lt;b&gt;比尔·盖茨&lt;/b&gt;&#xa;操盘者 · 24 岁的最终拍板人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" vertex="1" parent="cMS">
+        <mxCell id="pGates" value="&lt;b&gt;★ 比尔·盖茨 · 一号主角&lt;/b&gt;&#xa;操盘者 · 24 岁的最终拍板人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;strokeWidth=3;" vertex="1" parent="cMS">
           <mxGeometry x="40" y="50" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pAllen" value="&lt;b&gt;保罗·艾伦&lt;/b&gt;&#xa;一线执行 · SCP 交易操办人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" vertex="1" parent="cMS">
@@ -41,7 +41,7 @@
         <mxCell id="cSCP" value="SCP / DRI 阵营 · 握着操作系统" style="swimlane;startSize=30;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;swimlaneFillColor=#fffcf2;" vertex="1" parent="1">
           <mxGeometry x="1360" y="120" width="320" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="pKildall" value="&lt;b&gt;加里·基尔代尔&lt;/b&gt;&#xa;CP/M 之父 · DRI 创始人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=12;" vertex="1" parent="cSCP">
+        <mxCell id="pKildall" value="&lt;b&gt;★ 加里·基尔代尔 · 二号主角&lt;/b&gt;&#xa;CP/M 之父 · DRI 创始人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=12;strokeWidth=3;" vertex="1" parent="cSCP">
           <mxGeometry x="40" y="50" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pMcEwen" value="&lt;b&gt;多萝西·麦克尤恩&lt;/b&gt;&#xa;DRI 主谈 · 基尔代尔之妻" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=12;" vertex="1" parent="cSCP">

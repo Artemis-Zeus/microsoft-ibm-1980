@@ -1,6 +1,7 @@
 # 第七章 1981-08-12｜IBM PC 发布：主角登台，配角赢家
 
 > 状态：初稿（已考订级事实）｜对应 STORY.md 第七章
+> **视角**：双视角 · 两张价目表即对手戏②
 
 1981 年 8 月 12 日，纽约 Waldorf-Astoria 酒店。IBM 正式发布 IBM Personal Computer（型号 5150）。《纽约时报》次日报道的标题带着这个巨人惯有的克制：「Big I.B.M.'s Little Computer」。入门配置 16KB 内存、无软驱，售价 $1,565；装上软驱和显示器，$2,880 起。同行们的反应成了历史注脚：Radio Shack 的 CEO John Roach 说「我不觉得它有多大意义」；Apple 在《华尔街日报》买下整版，标题是带着敬意的挑衅——「Welcome IBM. Seriously.」（欢迎 IBM。认真的。）【DA4】【WikiIBMPc】
 
