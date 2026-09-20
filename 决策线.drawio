@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="drawio" version="26.0.0">
+  <diagram name="决策线">
+    <mxGraphModel dx="1600" dy="700" grid="1" gridSize="10" page="1" pageWidth="2100" pageHeight="560">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t1" value="决策线 · 七次抉择串成的主线" style="text;html=1;align=left;verticalAlign=middle;fontSize=22;fontStyle=1;fontColor=#1a1a2e;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="900" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="t2" value="橙色主轴＝实际发生的路径；每个站台下方的灰色虚线＝被放弃的那条路。D3 是全案的分岔点：若基尔代尔接受买断，以下一切都不会发生。" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="58" width="1400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nStart" value="&lt;b&gt;起点 · 1979&lt;/b&gt;&#xa;蓝色巨人的焦虑" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="40" y="265" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nD1" value="&lt;b&gt;D1 · 外购而非自研&lt;/b&gt;&#xa;Lowe / CMC · 1980-07&#xa;一年出机器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="260" y="260" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nD2" value="&lt;b&gt;D2 · 引荐 DRI&lt;/b&gt;&#xa;盖茨 · 1980-08-21&#xa;微软当时没有 OS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nD3" value="&lt;b&gt;D3 · 拒绝一次性买断&lt;/b&gt;&#xa;基尔代尔 · 1980-08&#xa;坚持按份版税（全案分岔点）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="720" y="260" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nD4" value="&lt;b&gt;D4 · 收下 86-DOS&lt;/b&gt;&#xa;盖茨 / 艾伦 · 1980-09→12&#xa;$25k 非独占授权" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="950" y="260" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nD5" value="&lt;b&gt;D5 · 许可而非卖断&lt;/b&gt;&#xa;盖茨 · 1980-11-06&#xa;保留第三方授权权" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="260" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nD6" value="&lt;b&gt;D6 · $50k 卖断全部权利&lt;/b&gt;&#xa;布罗克 · 1981-07-27&#xa;1986 追索仅得 $925k" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="260" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nD7" value="&lt;b&gt;D7 · PC DOS 定价 $40&lt;/b&gt;&#xa;IBM · 1981-08&#xa;对位 CP/M-86 $240" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="260" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nEnd" value="&lt;b&gt;终点 · 1985&lt;/b&gt;&#xa;MS-DOS 事实标准&#xa;Windows 在其上" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="255" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="s1" value="✗ 自研：4–5 年周期，错过窗口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;fontSize=10;dashed=1;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="265" y="430" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s2" value="✗ 自己硬扛 OS：无货可卖" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;fontSize=10;dashed=1;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="495" y="430" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s3" value="✗ 若接受 $250k 买断：整个故事改写" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;fontStyle=1;fontColor=#8a5a00;" vertex="1" parent="1">
+          <mxGeometry x="725" y="430" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s4" value="✗ 自研 OS：一年根本来不及" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;fontSize=10;dashed=1;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="955" y="430" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s5" value="✗ 整体卖断：从此与授权费无缘" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;fontSize=10;dashed=1;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="430" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s6" value="✗ 继续持有：SCP 版的无限可能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;fontSize=10;dashed=1;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1415" y="430" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s7" value="✗ 同价竞争：胜负未可知" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;fontSize=10;dashed=1;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1645" y="430" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d79b00;strokeWidth=4;endArrow=none;" edge="1" parent="1" source="nStart" target="nD1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d79b00;strokeWidth=4;endArrow=none;" edge="1" parent="1" source="nD1" target="nD2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d79b00;strokeWidth=4;endArrow=none;" edge="1" parent="1" source="nD2" target="nD3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d79b00;strokeWidth=4;endArrow=none;" edge="1" parent="1" source="nD3" target="nD4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d79b00;strokeWidth=4;endArrow=none;" edge="1" parent="1" source="nD4" target="nD5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d79b00;strokeWidth=4;endArrow=none;" edge="1" parent="1" source="nD5" target="nD6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d79b00;strokeWidth=4;endArrow=none;" edge="1" parent="1" source="nD6" target="nD7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d79b00;strokeWidth=4;endArrow=none;" edge="1" parent="1" source="nD7" target="nEnd">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#999999;endArrow=none;" edge="1" parent="1" source="nD1" target="s1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#999999;endArrow=none;" edge="1" parent="1" source="nD2" target="s2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#d79b00;endArrow=none;" edge="1" parent="1" source="nD3" target="s3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#999999;endArrow=none;" edge="1" parent="1" source="nD4" target="s4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#999999;endArrow=none;" edge="1" parent="1" source="nD5" target="s5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#999999;endArrow=none;" edge="1" parent="1" source="nD6" target="s6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#999999;endArrow=none;" edge="1" parent="1" source="nD7" target="s7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
